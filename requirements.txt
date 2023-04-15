@@ -1,0 +1,5 @@
+pandas==1.5.3
+yfinance==0.2.14
+statsmodels==0.13.5
+pandas_datareader==0.10.0
+datetime==3.10.9
